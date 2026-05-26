@@ -50,7 +50,7 @@ Make sure you have Python 3.7+ installed.
 
 1. Clone the repository and navigate to the directory:
    ```bash
-   git clone https://github.com/TalalAlha/secret-scanner.git
+   git clone https://github.com/TalalAlha/SecretScanner.git
    cd secret-scanner
    ```
 
